@@ -3,7 +3,7 @@
 # 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!+;+Je+suis+Chaminade+Dondah+Adjolou+!;Développeur+Web,+Designer;Futur+Analyste+de+Donnee.)](https://git.io/typing-svg)
-
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVyNTdrMnNqMWQwZGlxZnhnNnlndm04bDNsOTQ0ZGt6YXdwZms1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpLVqOg8xTY3EmoYF7/giphy.gif">
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xiNGk3cDQ4eTNxcWN0a2hqeGw3cWU3a3R3b2ZzbHcxb3Z6ZnU5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif">
 
 
