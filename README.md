@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!+;+Je+suis+Chaminade+Dondah+Adjolou+!;Développeur+Web,+Designer;Futur+Analyste+de+Donnee.)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/xaO6TmgQmKEQ4516sE">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaminadeadjolou/) 
