@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!+;+Je+suis+Chaminade+Dondah+Adjolou+!;Développeur+Web,+Designer;Futur+Analyste+de+Donnee.)](https://git.io/typing-svg)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/L7AIyTuXaszW3shL0F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MicrosoftCloud-msbuild-microsoft-build-L7AIyTuXaszW3shL0F">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaminadeadjolou/) 
