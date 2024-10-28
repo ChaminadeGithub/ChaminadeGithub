@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m software developer and passionate about data analysis<br>Just DM for more about me...
+# Salut, je suis Chaminade Dondah Adjolou !
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Bienvenue+sur+mon+GitHub+!;Je+suis+développeur+passionné,;Étudiant+en+ingénierie+logicielle,;A+l'Ecole+Polytechnique+de+Lomé,;Développeur+Flutter+et+Laravel.)](https://git.io/typing-svg)
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaminadeadjolou/) 
